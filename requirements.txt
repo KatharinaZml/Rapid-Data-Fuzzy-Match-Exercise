@@ -1,0 +1,9 @@
+# Jupyter notebook and essential libraries
+jupyter
+notebook
+
+# Data manipulation and analysis
+pandas
+
+# Fuzzy matching
+fuzzywuzzy
