@@ -4,6 +4,8 @@ notebook
 
 # Data manipulation and analysis
 pandas
+numpy 
 
 # Fuzzy matching
 fuzzywuzzy
+python-Levenshtein
