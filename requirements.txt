@@ -9,3 +9,6 @@ numpy
 # Fuzzy matching
 fuzzywuzzy
 python-Levenshtein
+
+# patterns
+re
